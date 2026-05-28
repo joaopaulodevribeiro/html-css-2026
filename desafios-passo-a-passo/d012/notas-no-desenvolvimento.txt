@@ -1,0 +1,7 @@
+Notas no desenvolvimento passo a passo do site do Cordel Moderno:
+
+-> Não usei o header como cabeçalho no body
+-> Não me recordei do br para quebrar as linhas do poema
+-> Colocar os blocos do poema dentro de parágrafos <p>
+-> Criar uma pasta e colocar o arquivo do estilo dentro da pasta
+-> Usar a regra @charset "UTF-8"; para os caracteres
