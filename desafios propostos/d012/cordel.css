@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.topo {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 70px;
+}
+
+h1 {
+    font-family: "Passion One", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.topo h1 {
+    font-size: 6em;
+    font-weight: 900;
+}
+
+.topo p,
+a {
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.texto {
+    line-height: 2.1em;
+    font-style: italic;
+    font-size: 2em;
+    font-weight: bolder;
+    padding: 30px;
+    font-family: "Sriracha", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.parallax1,
+.parallax2 {
+    background: black url('imagens/background001.jpg') center center no-repeat fixed;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+    max-width: 100%;
+    display: block;
+}
+
+.box-fundo {
+    background-color: rgba(0, 0, 0, 0.425);
+    width: 400px;
+}
+
+.parallax2 {
+    background: black url('imagens/background002.jpg') center center no-repeat fixed;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-size: 1.3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span {
+    font-weight: bolder;
+}
