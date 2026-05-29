@@ -10,3 +10,4 @@ Notas no desenvolvimento passo a passo do site do Cordel Moderno:
 ** font-variant: small-caps; -> Faz com que apenas as primeiras letras ficam maiores, dando impressão de captalização.
 ** Organizar o CSS para ter sentido, por exemplo: Ir do Header em sentido ao Footer, uma ordem coerente.
 ** Fazer por partes, neste exemplo, fazer a estilização do conteúdo de texto, depois fazer as imagens.
+-> Faltou usar o :root para criar as variáveis das fontes padrões do projeto.
