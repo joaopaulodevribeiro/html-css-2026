@@ -11,3 +11,5 @@ Notas no desenvolvimento passo a passo do site do Cordel Moderno:
 ** Organizar o CSS para ter sentido, por exemplo: Ir do Header em sentido ao Footer, uma ordem coerente.
 ** Fazer por partes, neste exemplo, fazer a estilização do conteúdo de texto, depois fazer as imagens.
 -> Faltou usar o :root para criar as variáveis das fontes padrões do projeto.
+** Usar no font-size o valor: 10vw por exemplo, faz com que o tamanho da fonte, adapte a largura da tela, ocupando 10% da vw independente do tamanho (Não é a melhor técnica, é apenas um recurso).
+** display: inline-block, faz com que a caixa se adapte ao conteúdo.
